@@ -64,7 +64,7 @@
     "d3plus-react": "^0.5.3",
     "dateformat": "^3.0.3",
     "emoji-picker-react": "^2.1.1",
-    "express": "4.16.2",
+    "express": "4.19.2",
     "file-saver": "^2.0.2",
     "formBuilder": "2.9.8",
     "jquery-ui": "^1.12.1",
